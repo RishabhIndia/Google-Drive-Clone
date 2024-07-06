@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a frontend clone of Google Drive built using the React framework and Firebase for real-time data handling and storage. The application includes features such as file uploading, file listing, and switching between grid and list views.
+This project is a frontend clone of Google Drive built using React framework and Firebase for real-time data handling and storage. The application includes features such as file uploading, file listing, and switching between grid and list views.
 
 ## Table of Contents
 
