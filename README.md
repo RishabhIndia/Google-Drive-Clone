@@ -37,11 +37,11 @@ This project is a frontend clone of Google Drive built using the React framework
    cd Google Drive
 
 2. **Install dependencies:**
-  ```sh
-   npm install
+  ```sh npm install
+   
 
 3. **Setup Firebase:**
--Go to Firebase Console.
+-**Go to Firebase Console.**
 -Create a new project.
 -Add a web app to your project.
 -Copy the Firebase configuration details.
